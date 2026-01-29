@@ -1,0 +1,20 @@
+﻿# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test results / reports
+TestResults/
+Reports/
+*.trx
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Rider/IntelliJ
+.idea/
